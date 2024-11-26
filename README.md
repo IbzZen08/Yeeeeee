@@ -7,4 +7,5 @@ Neeeeee
 </p>
 <p>
     This too, is a paragraph made in the coding language HTML
+    So this is classified as a HTML paragraph
 </p>
