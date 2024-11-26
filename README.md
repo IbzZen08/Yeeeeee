@@ -3,8 +3,8 @@ Neeeeee
 
 
 <p>
-  This isn't a paragraph, or is it?
+  A paragraph is multiple sentences strung together to make a text several lines long.
 </p>
 <p>
-    What if this became a website, so all people could see it.
+    This too, is a paragraph made in the coding language HTML
 </p>
